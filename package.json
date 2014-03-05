@@ -14,7 +14,7 @@
     "test": "mocha ./test/*.js"
   },
   "dependencies": {
-    "nopt": "https://github.com/Filirom1/nopt/tarball/master#pull-request-in-progress",
+    "nopt": "2.2.0",
     "colors": "~0.6.0-1"
   },
   "devDependencies": {
